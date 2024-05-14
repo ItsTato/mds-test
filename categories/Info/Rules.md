@@ -3,4 +3,4 @@
 2. Follow the rules, please! <:bru:>
 3. Have fun! :3
 
-Checkout more at <#Tree> and <#Information>!
+Checkout more at <#Tree> and <#Info>!

@@ -2,10 +2,11 @@
 	"categories": {
 		"Info": {
 			"id": 1239092695759192136,
+			"path": "/categories/Info",
 			"channels": {
-				"Rules": 1239092730085511239,
-				"Tree": 1239092750398390312,
-				"Information": 1239092771621572720
+				"Rules": {"id": 1239092730085511239, "file": "Rules.md"},
+				"Tree": {"id": 1239092750398390312, "file": "Tree.md"},
+				"Info": {"id": 1239092771621572720, "file": "Information.md"}
 			}
 		}
 	},
